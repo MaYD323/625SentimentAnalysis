@@ -7,10 +7,10 @@ Dataset Resource: https://www.kaggle.com/ilhamfp31/yelp-review-dataset
 
 There are two main docoments for reviewing, one is the coding document written in pyhon, and another one is analyis report written in R Markdown. 
 
-Contributions:
-Chenhao Shangguan: Data preprocessing and word embedding part, Presentation, PPT<br />
-Kaiyu Zhang: Meeting arrangement, Introduction and data description part, Presentation, PPT
-Kun Bai: Methods, results and discussion parts, rmarkdown writting, Presentation, PPT
-Yindi Ma: Data collection, Model establishment, Coding and Debugging, Presentation, PPT
+Contributions:<br />
+Chenhao Shangguan: Data preprocessing and word embedding part, Presentation, PPT;<br />
+Kaiyu Zhang: Meeting arrangement, Introduction and data description part, Presentation, PPT;<br />
+Kun Bai: Methods, results and discussion parts, rmarkdown writting, Presentation, PPT;<br />
+Yindi Ma: Data collection, Model establishment, Coding and Debugging, Presentation, PPT.<br />
 
 Thanks for taking your time viewing this page.
